@@ -1,0 +1,15 @@
+{
+    "name": "root/app",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emre YILMAZ",
+            "email": "z@emre.xyz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "7cups/migratos": "dev-master"
+    }
+}
